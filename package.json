@@ -1,17 +1,16 @@
 {
-  "author": "Son-Huy Pham <huytard.pham@gmail.com>",
-  "name": "ah-swagger-plugin",
-  "description": "Actionhero plugin that supports swagger",
-  "version": "1.0.1",
-  "homepage": "https://github.com/supamii/ah-swagger-plugin",
+  "author": "anatolyshipitz <anatoly.shipitz@speedandfunction.com>",
+  "name": "ah-openapi-plugin",
+  "description": "Actionhero plugin that supports openapi",
+  "version": "1.0.0",
+  "homepage": "https://github.com/anatolyshipitz/ah-openapi-plugin",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url" : "git://github.com/supamii/ah-swagger-plugin.git"
+    "url" : "git://github.com/anatolyshipitz/ah-openapi-plugin.git"
   },
-  "bugs" : "https://github.com/supamii/ah-swagger-plugin/issues",
   "keywords": [
-    "swagger",
+    "openapi",
     "actionhero",
     "ah",
     "plugin"
